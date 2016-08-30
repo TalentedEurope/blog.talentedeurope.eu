@@ -8,9 +8,9 @@ Installing it in a few simple steps:
 
 - Setup your webserver using our Server Deployer 
 - Clone the repository
-- Run *composer install*
+- Run *bash first-deploy*
 - Configure the wordpress settings.
-- Activate the builtin plugins.
+- Activate the builtin plugins. **Note** *The composer script seems to be replacing the plugins folder, make sure the plugins aren't gone*
 - Setup the header-footer imaginery if you want to, source image files to do that are in /imagery.
 	- Please note: the footer logos and favicon are linked directly to talented europe to optimize performance.	 	
 

@@ -1,10 +1,9 @@
 # Uncomment when ssl cert is running correctly.
 # server {
 #     listen   80;
-#     rewrite        ^ http://$server_name$request_uri? permanent;
+#     rewrite        ^ https://$server_name$request_uri? permanent;
 
 #     server_name deploydomain;
-#     ssl on;
 # }
 
 server {
