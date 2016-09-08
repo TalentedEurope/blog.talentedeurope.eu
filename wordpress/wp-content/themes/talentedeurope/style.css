@@ -313,12 +313,13 @@ textarea {
 }
 .entry-meta {
   margin-bottom: 30px;
+  margin-left: -50px;
 }
 .entry-meta .byline, .entry-meta .comments-link {
   display: none;
 }
 
-.entry-meta .posted-on { background: #FFC628; color: #333; padding: 10px 15px;  margin-left: -50px; }
+.entry-meta .posted-on {background: #FFC628;color: #333;padding: 10px 15px;margin-right: -4px;display: inline-block;}
 
 .entry-meta .posted-on a { color: #333; font-weight: bold; }
 
@@ -327,8 +328,8 @@ textarea {
     text-transform: uppercase;
     background: #2F70B1;
     color: #fff;
+    display: inline-block;
     padding: 10px 15px;
-    margin-left: -14px
 }
 
 .entry-meta .cat-links a {
@@ -923,7 +924,7 @@ button:hover, .button:hover {
   }
 
 
-  .entry-meta .posted-on { margin-left: -25px; }
+  .entry-meta { margin-left: -25px; }
 
   #footer-area {
     text-align: center;
