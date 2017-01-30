@@ -6,7 +6,7 @@ This repository contains the official blog, minus the data/images/assets of the 
 
 Installing it in a few simple steps:
 
-- Setup your webserver using our Server Deployer 
+- Setup your webserver using our Server Deployer
 - Clone the repository
 - Run *bash first-deploy*
 - Configure the wordpress settings.
@@ -27,7 +27,7 @@ The site is based on Wordpress 3.6 at the time of the release so on the php side
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Talented Europe, please send an e-mail to Carlos Sosa or Pol Cámara at dev@talentedeurope.org. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Talented Europe, please send an e-mail to dev@talentedeurope.org. All security vulnerabilities will be promptly addressed.
 
 ## License
 
