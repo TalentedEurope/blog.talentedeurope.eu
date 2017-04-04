@@ -104,6 +104,11 @@
 						    <i class="fi flaticon-youtube"></i>
 						  </a>
 						</li>
+						<li>
+						  <a href="https://www.linkedin.com/in/talentedeurope">
+						    <i class="fa fa-linkedin"></i>
+						  </a>
+						</li>
 						</ul>
 						</div>
 						<?php sparkling_header_menu(); // main navigation ?>

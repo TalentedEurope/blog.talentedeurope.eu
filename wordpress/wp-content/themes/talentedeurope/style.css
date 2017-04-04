@@ -512,7 +512,7 @@ body.blog .post-inner-content,
   display: block;
   margin: auto;
   width: 100%;
-  height: auto;  
+  height: auto;
   box-shadow: 0px 0px 10px #333;
 }
 .single-featured:hover {
@@ -1399,7 +1399,7 @@ p.logged-in-as {
   padding: 30px 10px;
   overflow: hidden;
   text-align: center; }
- 
+
   .footer .ue-logos .logo {
     display: block;
     margin: 25px 40px; }
@@ -1417,7 +1417,7 @@ img.te-logo {
     color: #212E44;
 }
 
-#footer-area .footer-widget 
+#footer-area .footer-widget
     display: block;
 }
 
@@ -1430,7 +1430,8 @@ img.te-logo {
 }
 
 #footer-area .menu li a:after {
-    content: " | "
+    content: " | ";
+    color: #2F70B1;
 }
 
 #footer-area .menu li:last-child a:after {
@@ -1751,7 +1752,7 @@ img.te-logo {
   }
 }
 
-/*Cookie stuff 
+/*Cookie stuff
 -----------------
 */
 
